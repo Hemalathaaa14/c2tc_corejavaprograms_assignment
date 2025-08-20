@@ -1,6 +1,6 @@
-package com.hema.assignment.utilities;
+package assignment1.utilities;
 
-import com.hema.assignment.employees.Employee;
+import assignment1.employees.Employee;
 
 /**
  * EmployeeUtilities - helper class to work with Employee objects.

@@ -1,4 +1,4 @@
-package com.hema.assignment.employees;
+package assignment1.employees;
 
 /**
  * Manager class - subclass of Employee.

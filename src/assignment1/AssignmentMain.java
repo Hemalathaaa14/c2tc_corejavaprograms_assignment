@@ -1,13 +1,13 @@
-package com.hema.assignment1;
-import com.hema.assignment.employees.*;
-import com.hema.assignment.utilities.EmployeeUtilities;
+package assignment1;
+import assignment1.employees.*;
+import assignment1.utilities.EmployeeUtilities;
 
 /**
  * Main class to test Manager, Developer, and EmployeeUtilities.
  */
 public class AssignmentMain {
     public static void main(String[] args) {
-        // Create objects
+        // Create objectsch
         Manager manager = new Manager("Alice", 101, 80000, "HR");
         Developer developer = new Developer("Bob", 102, 60000, "Java");
 

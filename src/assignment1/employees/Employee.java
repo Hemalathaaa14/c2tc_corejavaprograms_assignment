@@ -1,4 +1,4 @@
-package com.hema.assignment.employees;
+package assignment1.employees;
 
 public class Employee {
     private String name;
